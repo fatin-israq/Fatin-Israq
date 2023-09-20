@@ -27,5 +27,5 @@
 
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatin-israq&layout=compact&$disable_animations=true&border_radius=5&border_color=000000$disable_animations=true&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatin-israq&layout=compact&$disable_animations=false&border_radius=5&border_color=000000$disable_animations=false&show_icons=true&theme=github_dark)
 </div>
