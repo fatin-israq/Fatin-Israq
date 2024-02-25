@@ -28,4 +28,6 @@
 <div align="center">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatin-israq&layout=compact&$disable_animations=false&border_radius=5&border_color=000000$disable_animations=false&show_icons=true&theme=github_dark)
-</div>
+
+
+<a title="System requirements and Rate my PC tool - all at PCGameBenchmark" href="https://www.pcgamebenchmark.com/ratemypc?cpu=intel-core-i5-11400h&memory=16gb&gpu=nvidia-geforce-rtx-3050-laptop-gpu&platform=windows"><img src="https://www.pcgamebenchmark.com/signature/intel-core-i5-11400h/16gb/nvidia-geforce-rtx-3050-laptop-gpu/forum.png"></a></div>
