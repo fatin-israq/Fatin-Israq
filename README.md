@@ -1,6 +1,9 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
-<h1 align="center">Hi 👋, I'm Fatin Israq Talha</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+Fatin+Israq+Talha+!;" />
+</h1>
+
 <h3 align="center">A computer science student at United International University</h3>
 <p  align="center">
 <a href="https://wakatime.com/@856a76ed-3f63-4b2f-aa0a-f6efabb2c827"><img src="https://wakatime.com/badge/user/856a76ed-3f63-4b2f-aa0a-f6efabb2c827.svg" alt="Total time coded since Mar 18 2023" /></a>
