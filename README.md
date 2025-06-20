@@ -49,7 +49,7 @@
 <!-- Web Technologies -->
 <h3>🌐 Web Technologies</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,nodejs,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,nodejs,mysql" />
 </p>
 
 <!-- Tools & Platforms -->
