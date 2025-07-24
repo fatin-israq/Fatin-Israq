@@ -20,7 +20,7 @@
 <p align="center">
   🎓 Computer Science Student at <strong>United International University</strong><br/>
   💡 Passionate about learning new things<br/>
-  🌱 Currently exploring NodeJs and Backend<br/>
+  🌱 Currently exploring AI/Machine Learning<br/>
   ⚡ Fun fact: I am very boring!
 </p>
 
