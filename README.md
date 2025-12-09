@@ -66,11 +66,6 @@
   GitHub Stats
 </h2>
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fatin-israq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=16&border_color=A9FEF7"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatin-israq&layout=compact&theme=tokyonight&border_radius=16&border_color=A9FEF7"/>
-</div>
-
 <!-- Contribution Graph -->
 <div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatin-israq&custom_title=Fatin's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=A9FEF7&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="100%"/>
